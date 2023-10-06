@@ -157,7 +157,7 @@ if(isset($_POST['name'])){
         //   echo $variable2;
         //   echo "<br>"; 
         //   echo $variable3;
-        //   echo "<br>";
+ 
          // $variable4= array("Java","Php","Python","Ruby","C");
         //   echo "The value of Array are ".$variable4[0]."<br>";
         //   echo "The value of Array are ".$variable4[1]."<br>";
