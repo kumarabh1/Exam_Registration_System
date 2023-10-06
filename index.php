@@ -167,7 +167,7 @@ if(isset($_POST['name'])){
         //   for($a=0;$a<5;$a++){
         //       echo "The value of Array are ".$variable4[$a]."<br>";
         //   }
-        //   echo str_word_count($variable3);
+        
 
         // ?>
     </div>
