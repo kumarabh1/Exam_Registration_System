@@ -166,7 +166,7 @@ if(isset($_POST['name'])){
         //   echo "The value of Array are ".$variable4[4]."<br>";
         //   for($a=0;$a<5;$a++){
         //       echo "The value of Array are ".$variable4[$a]."<br>";
-        //   }
+       
         
 
         // ?>
