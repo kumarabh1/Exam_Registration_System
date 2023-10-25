@@ -163,7 +163,7 @@ if(isset($_POST['name'])){
         //   echo "The value of Array are ".$variable4[1]."<br>";
         //   echo "The value of Array are ".$variable4[2]."<br>";
         //   echo "The value of Array are ".$variable4[3]."<br>";
-        //   echo "The value of Array are ".$variable4[4]."<br>";
+       
        
         
        
